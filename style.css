@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+
+}
+.inputHeader{
+  padding: 50px 0 0 0;
+}
+.input{
+  width: 230px;
+  height: 30px;
+
+}
+.btn {
+  padding: 8px 15px;
+  margin-top: 10px;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.result {
+  margin-top: 20px;
+}
